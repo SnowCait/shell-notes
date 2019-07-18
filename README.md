@@ -1,0 +1,2 @@
+# shell-notes
+Bash, PowerShell
