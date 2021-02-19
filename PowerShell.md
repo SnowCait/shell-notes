@@ -3,6 +3,7 @@
 ## 全般
 - [Write-HostとWrite-Outputの違い](https://blog.shibata.tech/entry/2016/01/11/151201)
 - [ブログズミ: bat ファイルの実行時間を PowerShell で計測する](https://srz-zumix.blogspot.com/2017/07/bat-powershell.html)
+- [Tee-Object (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/tee-object?view=powershell-7.1)
 
 ## HTTP
 - [curl/PowerShellでHTTPアクセスいろいろ](https://qiita.com/zaki-lknr/items/8950f6acea20961a8afc)
