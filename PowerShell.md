@@ -16,3 +16,7 @@
 
 ## Command
 - [grepコマンドとPowerShellのsls (Select-String)の比較 - Sanwa Systems Tech Blog](https://tech.sanwasystem.com/entry/2016/07/05/185717)
+
+## Toast
+- [私PowerShellだけどあなたにトーストを届けたい（プログレスバー付） - Qiita](https://qiita.com/magiclib/items/12e2a9e1e1e823a7fa5c)
+- [Generating Windows 10 Notifications With PowerShell | Den Delimarsky](https://den.dev/blog/powershell-windows-notification/)
