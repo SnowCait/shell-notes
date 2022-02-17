@@ -20,3 +20,13 @@
 ## Toast
 - [私PowerShellだけどあなたにトーストを届けたい（プログレスバー付） - Qiita](https://qiita.com/magiclib/items/12e2a9e1e1e823a7fa5c)
 - [Generating Windows 10 Notifications With PowerShell | Den Delimarsky](https://den.dev/blog/powershell-windows-notification/)
+
+## 計測
+
+- [Measure-Command](https://forsenergy.com/ja-jp/windowspowershellhelp/html/5a0612d3-08dd-466a-a753-88f46e6efb89.htm)
+
+### 10回計測
+
+```ps1
+1..10 | %{ (Measure-Command { .\script.bat }).TotalSeconds }
+```
